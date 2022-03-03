@@ -1,0 +1,15 @@
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\bin\Debug\net6.0\BadContentBot.exe
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\bin\Debug\net6.0\BadContentBot.deps.json
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\bin\Debug\net6.0\BadContentBot.runtimeconfig.json
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\bin\Debug\net6.0\BadContentBot.dll
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\bin\Debug\net6.0\BadContentBot.pdb
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\BadContentBot.csproj.AssemblyReference.cache
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\BadContentBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\BadContentBot.AssemblyInfoInputs.cache
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\BadContentBot.AssemblyInfo.cs
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\BadContentBot.csproj.CoreCompileInputs.cache
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\BadContentBot.dll
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\refint\BadContentBot.dll
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\BadContentBot.pdb
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\BadContentBot.genruntimeconfig.cache
+D:\Documents\Local Programming\Software\BadContentBot\BadContentBot\obj\Debug\net6.0\ref\BadContentBot.dll
